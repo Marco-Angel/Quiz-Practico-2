@@ -50,7 +50,12 @@ Esta imagen muestra:
 
 ---
 
-## Paso 7: 
+## Paso 7: Contenido del contenedor
 <img width="1465" height="476" alt="image" src="https://github.com/user-attachments/assets/c41932a9-49e8-4bd7-8ce6-452246468a8f" />
 
+- La imagen muestra una terminal donde se ejecuta un contenedor Docker con docker-compose run --rm pybullet-e1 bash. Luego, se listan los archivos del directorio /app, que contiene carpetas como Data, Textures, URDFs, src, entre otras, y se accede a la carpeta URDFs, donde se listan las subcarpetas Primitives, Robots y Viewpoint.
+
+---
+
+## Paso 8: 
 <img width="583" height="848" alt="image" src="https://github.com/user-attachments/assets/7556bf59-c7b9-4864-bb9d-a0393f2026f1" />
