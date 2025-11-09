@@ -3,11 +3,13 @@
 ## Paso 1: El punto de partida
 
 <img width="790" height="356" alt="image" src="https://github.com/user-attachments/assets/ddd27725-74e8-4b4f-a831-2fb671a45031" />
+
 Esta imagen muestra:
--Creación de carpeta: mkdir EnvironmetE1
--Verificación: dir muestra que la carpeta Environmet
--Navegación: cd EnvironmetE1
--Ahora estás dentro de la carpeta EnvironmetE1 y listo para crear los archivos Dockerfile y docker-compose.yml.
+
+- Creación de carpeta: mkdir EnvironmetE1
+- Verificación: dir muestra que la carpeta Environmet
+- Navegación: cd EnvironmetE1
+- Ahora estás dentro de la carpeta EnvironmetE1 y listo para crear los archivos Dockerfile y docker-compose.yml.
 
 --
 
