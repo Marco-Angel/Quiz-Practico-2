@@ -11,24 +11,38 @@ Esta imagen muestra:
 - Navegación: cd EnvironmetE1
 - Ahora estás dentro de la carpeta EnvironmetE1 y listo para crear los archivos Dockerfile y docker-compose.yml.
 
---
+---
+
 ## Paso 2: Creación del Dockerfile
 
 <img width="800" height="427" alt="image" src="https://github.com/user-attachments/assets/78926c4a-89f7-40f9-b97a-c50a09f38b62" />
 
 - La imagen muestra un Dockerfile basado en Python 3.9 que instala dependencias como pybullet, numpy, matplotlib, pandas, y stable-baselines3. Clona el repositorio PyBullet_Industrial_Robotics_Gym, configura rutas de trabajo y ejecuta un script de Python que inicializa una simulación de robots industriales (ABB IRB 120, UR3, Epson SCARA).
 
+---
+
 ## Paso 3: Creación docker-compose.yml
 <img width="731" height="277" alt="image" src="https://github.com/user-attachments/assets/ea97ae8f-2781-4772-b049-e0e6562ba947" />
 
 - La imagen muestra un archivo docker-compose.yml versión 3.8, que define un servicio llamado pybullet-e1. Este servicio construye una imagen desde el directorio actual, nombra el contenedor pybullet_environment_e1 y monta un volumen local ./Data en /app/Data dentro del contenedor.
 
+---
+
 ## Paso 4: Visualización de los dos archivos
 <img width="741" height="278" alt="image" src="https://github.com/user-attachments/assets/3f29d6aa-3e31-4d29-ab01-115ed52d0cd3" />
 
 - La imagen muestra el contenido del directorio C:\Users\marqu\Enviroment, que contiene una carpeta llamada Data y dos archivos: docker-compose.yml y Dockerfile.
+  
+ ---
+ 
+## Paso 5: Construcción del contenedor
 
 <img width="800" height="694" alt="image" src="https://github.com/user-attachments/assets/43e29511-139a-473e-939b-c7b3875ab788" />
+
+- La imagen muestra la construcción exitosa del contenedor environment-pybullet-e1 mediante el comando docker-compose build, usando el Dockerfile que instala dependencias y clona el repositorio de PyBullet Industrial Robotics.
+
+---
+
 
 <img width="800" height="333" alt="image" src="https://github.com/user-attachments/assets/fe154aad-3d04-4947-b44c-ea85fd9f9236" />
 
