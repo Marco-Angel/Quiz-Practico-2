@@ -1,4 +1,4 @@
-@"
+@'
 version: '3.8'
 
 services:
@@ -7,8 +7,4 @@ services:
     container_name: pybullet_environment_e1
     volumes:
       - ./Data:/app/Data
-    environment:
-      - DISPLAY=:99
-    stdin_open: true
-    tty: true
-"@ | Out-File -FilePath docker-compose.yml -Encoding ASCII
+'@ | Out-File -FilePath docker-compose.yml -Encoding ASCII
