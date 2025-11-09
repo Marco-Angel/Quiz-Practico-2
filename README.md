@@ -1,5 +1,5 @@
 # Quiz-Practico-2
---
+---
 ## Paso 1: El punto de partida
 
 <img width="790" height="356" alt="image" src="https://github.com/user-attachments/assets/ddd27725-74e8-4b4f-a831-2fb671a45031" />
@@ -43,7 +43,7 @@ Esta imagen muestra:
 
 ---
 
-
+## Paso 6: 
 <img width="800" height="333" alt="image" src="https://github.com/user-attachments/assets/fe154aad-3d04-4947-b44c-ea85fd9f9236" />
 
 <img width="1465" height="476" alt="image" src="https://github.com/user-attachments/assets/c41932a9-49e8-4bd7-8ce6-452246468a8f" />
