@@ -23,8 +23,10 @@ Esta imagen muestra:
 
 - La imagen muestra un archivo docker-compose.yml versión 3.8, que define un servicio llamado pybullet-e1. Este servicio construye una imagen desde el directorio actual, nombra el contenedor pybullet_environment_e1 y monta un volumen local ./Data en /app/Data dentro del contenedor.
 
-## Paso 4: 
+## Paso 4: Visualización de los dos archivos
 <img width="741" height="278" alt="image" src="https://github.com/user-attachments/assets/3f29d6aa-3e31-4d29-ab01-115ed52d0cd3" />
+
+- La imagen muestra el contenido del directorio C:\Users\marqu\Enviroment, que contiene una carpeta llamada Data y dos archivos: docker-compose.yml y Dockerfile.
 
 <img width="800" height="694" alt="image" src="https://github.com/user-attachments/assets/43e29511-139a-473e-939b-c7b3875ab788" />
 
