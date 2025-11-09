@@ -1,5 +1,6 @@
 # Quiz-Practico-2
 
+<img width="790" height="356" alt="image" src="https://github.com/user-attachments/assets/ddd27725-74e8-4b4f-a831-2fb671a45031" />
 
 <img width="800" height="427" alt="image" src="https://github.com/user-attachments/assets/78926c4a-89f7-40f9-b97a-c50a09f38b62" />
 
