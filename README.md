@@ -59,3 +59,7 @@ Esta imagen muestra:
 
 ## Paso 8: 
 <img width="583" height="848" alt="image" src="https://github.com/user-attachments/assets/7556bf59-c7b9-4864-bb9d-a0393f2026f1" />
+
+- La imagen muestra la salida del comando pip list en una terminal dentro del contenedor Docker, listando paquetes de Python instalados, incluyendo librerías de NVIDIA CUDA, PyBullet, NumPy, Matplotlib y otras dependencias científicas.
+
+---
