@@ -1,0 +1,14 @@
+@"
+version: '3.8'
+
+services:
+  pybullet-e1:
+    build: .
+    container_name: pybullet_environment_e1
+    volumes:
+      - ./Data:/app/Data
+    environment:
+      - DISPLAY=:99
+    stdin_open: true
+    tty: true
+"@ | Out-File -FilePath docker-compose.yml -Encoding ASCII
