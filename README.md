@@ -21,6 +21,9 @@ Esta imagen muestra:
 ## Paso 3: Creación docker-compose.yml
 <img width="731" height="277" alt="image" src="https://github.com/user-attachments/assets/ea97ae8f-2781-4772-b049-e0e6562ba947" />
 
+- La imagen muestra un archivo docker-compose.yml versión 3.8, que define un servicio llamado pybullet-e1. Este servicio construye una imagen desde el directorio actual, nombra el contenedor pybullet_environment_e1 y monta un volumen local ./Data en /app/Data dentro del contenedor.
+
+## Paso 4: 
 <img width="741" height="278" alt="image" src="https://github.com/user-attachments/assets/3f29d6aa-3e31-4d29-ab01-115ed52d0cd3" />
 
 <img width="800" height="694" alt="image" src="https://github.com/user-attachments/assets/43e29511-139a-473e-939b-c7b3875ab788" />
