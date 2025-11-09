@@ -43,9 +43,14 @@ Esta imagen muestra:
 
 ---
 
-## Paso 6: 
+## Paso 6: Simulación de robots industriales con PyBullet 
 <img width="800" height="333" alt="image" src="https://github.com/user-attachments/assets/fe154aad-3d04-4947-b44c-ea85fd9f9236" />
 
+- La imagen muestra la ejecución del comando docker-compose up, que inicia el contenedor pybullet_environment_e1 previamente creado. Durante la ejecución, el sistema muestra mensajes informativos indicando que el entorno PyBullet Industrial Robotics se ha iniciado correctamente. En la salida se observa la simulación de robots industriales, mencionando los modelos disponibles (ABB IRB 120, UR3 y Epson SCARA) y el modo de operación (“Alcance de objetivo sin obstáculos”). Finalmente, el contenedor termina su proceso con el mensaje “exited with code 0”, lo que indica que la ejecución fue exitosa y sin errores.
+
+---
+
+## Paso 7: 
 <img width="1465" height="476" alt="image" src="https://github.com/user-attachments/assets/c41932a9-49e8-4bd7-8ce6-452246468a8f" />
 
 <img width="583" height="848" alt="image" src="https://github.com/user-attachments/assets/7556bf59-c7b9-4864-bb9d-a0393f2026f1" />
